@@ -1,5 +1,6 @@
 ignored/
 scratch/
+upstream/
 
 #region Python
 # Byte-compiled / optimized / DLL files
