@@ -1,0 +1,3 @@
+@{
+    Include = @("README*", "LICENSE*", "lib/*")
+}
